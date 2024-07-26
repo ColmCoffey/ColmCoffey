@@ -11,7 +11,7 @@
 - Machine Learning
 - Cloud Architecture
 - Software Development
-- Cryptography
+- Advanced Cryptography
 - Python, Java, Kotlin, TensorFlow, TenSEAL
 
 ## Projects
